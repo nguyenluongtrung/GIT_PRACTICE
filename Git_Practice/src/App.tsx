@@ -7,6 +7,8 @@ export default function App() {
 			<p>Other code</p>
 			<p>Other code....</p>
 			<p>HIhiihi</p>
+			<p>This is code from a feature branch</p>
+			<p>Ru em</p>
 		</>
 	);
 }
