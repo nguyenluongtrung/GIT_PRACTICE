@@ -10,6 +10,7 @@ export default function App() {
 			<p>This is code from a feature branch</p>
 			<p>Ru em</p>
 			<p>New line</p>
+			<p>V2222222</p>
 		</>
 	);
 }
