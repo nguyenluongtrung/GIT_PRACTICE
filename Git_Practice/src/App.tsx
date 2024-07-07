@@ -9,6 +9,7 @@ export default function App() {
 			<p>HIhiihi</p>
 			<p>This is code from a feature branch</p>
 			<p>Ru em</p>
+			<p>New line</p>
 		</>
 	);
 }
